@@ -1,0 +1,9 @@
+jupyterlab
+pandas
+numpy
+matplotlib
+geopandas
+shapely
+networkx
+osmnx
+contextily
